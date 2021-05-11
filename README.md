@@ -1,5 +1,7 @@
 # NACIRI_XR 
 
+------------ BOOT ----------------
+
 BOT SPAM MESSAGE IN EMAIL
 
 pkg install python3
